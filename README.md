@@ -1,7 +1,14 @@
-### Hi there 👋
+### Hey there!
 
 <!--
 **sawyerbelair/sawyerbelair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I'm Sawyer Belair, a soon-to-graduate journalism student (and recovering former physics student) at the University of Nebraska-Lincoln. Although my prospective career in STEM never panned out, my dream has remained the same since those early days, albeit with a widened lens: to reign in complex, fascinating topics and make them digestible for the average person, and to show how issues halfway around the globe can affect each of us in tangible ways. 
+
+Whether it's charting train derailments in Nebraska, delving into the ways that AI is transforming education or debating the pros and cons on medical marijuana legalization, I'm seeking to bring an analytical approach to my work, even in stories where hard numbers might not apply. Sometimes, it's easy to lose sight of real-life experiences in the presence of so many numbers, and so perhaps most importnatly, I'm striving to maintain the deeply human aspects embedded in every story. 
+
+I'm also working on innovating novel applications of simple technology in the realm of data journalism, most recently in cooperation with UNL Professor Matt Waite on sensor-encoding project seeking to visualize the physical experience of attending large-crowd activities, such as sporting events and concerts.
+
 
 Here are some ideas to get you started:
 
