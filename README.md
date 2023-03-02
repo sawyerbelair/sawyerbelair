@@ -1,6 +1,5 @@
 ### Hey there!
 
-<!--
 **sawyerbelair/sawyerbelair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm Sawyer Belair, a soon-to-graduate journalism student (and recovering former physics student) at the University of Nebraska-Lincoln. Although my prospective career in STEM never panned out, my dream has remained the same since those early days, albeit with a widened lens: to reign in complex, fascinating topics and make them digestible for the average person, and to show how issues halfway around the globe can affect each of us in tangible ways. 
