@@ -12,6 +12,6 @@ Here's a couple of my favorite pieces I've done far:
 * A one-year [retrospective](https://www.dailynebraskan.com/news/students-reflect-on-fall-2021-fiji-protests-ongoing-challenges-facing-unl/article_e4fe207a-48ea-11ed-8537-b36945a30db1.html) on the response to allegations of sexual assault of a 17-year-old girl at a fraternity house on campus, which sparked nationwide outrage.
 * [Linking](https://norfolkdailynews.com/news/global-food-shortage-leaves-local-nonprofit-high-and-dry/article_f74cd86e-dd03-11ec-bb4a-5b57750fe06d.html) the war in Ukraine and subsequent global grain shortages to the struggles of a Norfolk, NE-based non-profit's efforts to feed the hungry across the world.
 * Covering a [debate](https://norfolkdailynews.com/news/conflicting-camps-debate-merits-of-medical-marijuana-legalization-in-nebraska-ahead-of-petition-deadline/article_84d8f4fa-fa10-11ec-a91c-e75f5e1ee325.html) surrounding a petition drive to legalize medical marijuana in Nebraska in the summer of 2022, showing the compelling cases that were being made for and against the initiative from multiple angles.
-* Currently, I've been working on a data-centered investigation into train derailments in Nebraska, linking the trend to recent derailments in the state as well as the disaster in East Palestine, OH. Stay tuned!
+* Currently, I've been working on a data-centered investigation into train derailments in Nebraska, linking decades-long trends to recent derailments in the state as well as the disaster in East Palestine, OH. Stay tuned!
 
 
