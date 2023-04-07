@@ -4,7 +4,7 @@ I'm Sawyer Belair, a soon-to-graduate senior journalism student (and recovering 
 
 Above all else, I'm seeking to recognize the complexity of issues affecting regular people, instead of reducing them into binary, divisive litmus tests of pre-packaged political ideology. I strive to bring an analytical approach to my work, even in stories where hard numbers might not apply. It's often easy to lose sight of real-life experiences in the presence of so many numbers, and so perhaps most importantly, I'm striving to maintain the human voices underpinning every great story. 
 
-I'm also working on innovating novel applications of simple technology in the realm of data journalism, most recently in cooperation with UNL Professor Matt Waite on sensor-encoding project seeking to visualize the physical experience of attending large-crowd activities, such as sporting events and concerts.
+I'm also working on innovating novel applications of simple technology in the realm of data journalism, most recently in cooperation with UNL Professor Matt Waite on sensor-based coding project seeking to visualize the physical experience of attending large-crowd activities, such as sporting events and concerts.
 
 Here's a couple of my favorite pieces I've done far:
 * An [investigation](https://journalstar.com/news/local/nebraska-among-states-with-highest-number-of-train-derailments-data-shows/article_69553520-b60a-11ed-bfaa-13387cb4ca5c.html) into train derailments in Nebraska, linking decades-long trends to recent derailments in the state as well as the disaster in East Palestine, OH. 
