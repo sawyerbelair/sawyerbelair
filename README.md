@@ -1,6 +1,6 @@
 ### Hey there!
 
-I'm Sawyer Belair, a recently-graduated journalism student (and recovering former physics student) from the University of Nebraska-Lincoln. Although my prospective career in STEM never panned out, my dream has remained the same since those early days, albeit with a widened lens: to reign in complex, fascinating topics and make them digestible for the average person, and to show how issues halfway around the globe can affect each of us in tangible ways. 
+I'm Sawyer Belair, a recently-graduated journalism student (and recovering former physics student) from the University of Nebraska-Lincoln and current data & public health reporter for the Wichita Beacon in Wichita, KS. Although my prospective career in STEM never panned out, my dream has remained the same since those early days, albeit with a widened lens: to reign in complex, fascinating topics and make them digestible for the average person, and to show how issues halfway around the globe can affect each of us in tangible ways. 
 
 Above all else, I'm seeking to recognize the complexity of issues affecting regular people, instead of reducing them into binary, divisive litmus tests of pre-packaged political ideology. I strive to bring an analytical approach to my work, even in stories where hard numbers might not apply. It's often easy to lose sight of real-life experiences in the presence of so many numbers, and so perhaps most importantly, I'm striving to maintain the human voices underpinning every great story. 
 
